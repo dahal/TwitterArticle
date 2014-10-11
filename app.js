@@ -1,11 +1,7 @@
 // Require Dependencies
 var express           = require('express'),
-    mongoose          = require('mongoose'),
     config            = require('./config'),
     app               = express()
-
-// Setup mongoDB
-mongoose.connect(config.database.mongoURL)
 
 // Setup port
 var port = '3000'
