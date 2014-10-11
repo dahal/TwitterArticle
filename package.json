@@ -1,0 +1,23 @@
+{
+  "name": "TwitterArticle",
+  "version": "0.0.1",
+  "description": "Node.js App : Read the link @accounts you follow on twitter have shared.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dahal/TwitterArticle.git"
+  },
+  "keywords": [
+    "Twitter",
+    "Article"
+  ],
+  "author": "Puru Dahal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dahal/TwitterArticle/issues"
+  },
+  "homepage": "https://github.com/dahal/TwitterArticle"
+}
