@@ -9,5 +9,4 @@ Introducing 'Twitter Article', the only place where you can read those article w
 ---
 * Node.js
 * Express.js
-* Mongo DB
 * Twitter API
