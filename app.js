@@ -4,6 +4,9 @@ var express           = require('express'),
     config            = require('./config'),
     app               = express()
 
+// Setup mongoDB
+mongoose.connect(config.database.mongoURL)
+
 // Setup port
 var port = '3000'
 
